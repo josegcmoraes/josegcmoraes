@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii! Eu Sou o José Geraldo
+## Oiii! Eu Sou o José Moraes
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Estudando ReactJS
  
