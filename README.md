@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Oiii! Eu Sou o José Moraes
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Estudando ReactJS
+- 🌱 Desenvolvedor ReactJS | NestJS
 
 
 <div>
